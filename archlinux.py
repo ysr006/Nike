@@ -12,7 +12,7 @@ girdi3 = input("Swap alanı olsun mu? [E]vet / [H]ayır :")
 if girdi3 == "E":
     os.system('sh ~/Nike/lib/partition/Swap.sh | gdisk /dev/{}'.format(girdi1))
 
-os.system('sh ~/Nike/lib/partition/Partition.sh |gdisk /dev/{}')
+os.system('sh ~/Nike/lib/partition/Partition.sh |gdisk /dev/{}'.format(girdi1)
 #
 # print("Bölüm oluşturma bitti şimdi biçimlendirme zamanı...")
 #
