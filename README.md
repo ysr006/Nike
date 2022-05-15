@@ -6,7 +6,7 @@ Klavye türkçe yapmak için
 
 #loadkeys trq
 
-İnternete bağlanmak için
+İnternete bağlanmak için ( Sanal makinede bu işlem gerekmez.)
 
 #iwctl
 
