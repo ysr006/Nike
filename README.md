@@ -34,3 +34,5 @@ myarchscript doyasını indirmek için
 yazınız.
 
 Hata Öneri Destek İçin: https://www.youtube.com/channel/UCTlm2_b42fcfuQph76AChTQ
+
+Durum: Tamamlandı fakat test edilmedi youtube kanalında test edilecek.
