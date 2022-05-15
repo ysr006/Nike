@@ -5,7 +5,7 @@ import os
 # Giriş
 import time
 
-print("Merhaba ben Nike. Adımı yunan mitolojisinden alan 3. programım.")
+print("Merhaba ben Nike. Türkçe Arch Linux kurma programıyım.")
 print("Rahatala ve arkana yaslan.Arch Linux kurulumununda tüm zor işlemleri ben halledeceğim.")
 print("\nAma önce size bazı sorular sormam gerekiyor. Sizin memnuniyetiniz benim için en önemli şey")
 
